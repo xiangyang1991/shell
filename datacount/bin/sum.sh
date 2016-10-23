@@ -1,5 +1,6 @@
 #!/bin/bash
 #脚本默认的目录为~
+#当一个脚本用计划任务自动执行时，该脚本的默认目录是当前用户的~
 exec 1>> /usr/ncic/workdir/huizong/datacount/bin/log
 exec 2>> /usr/ncic/workdir/huizong/datacount/bin/err.log
 echo -e "\n"
