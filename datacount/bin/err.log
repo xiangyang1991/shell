@@ -1,0 +1,22 @@
+ls: cannot access /usr/ncic/workdir/huizong/917mt_attack_webbackdoor/20160729/upload_sucess: No such file or directory
+ls: cannot access /usr/ncic/workdir/huizong/917mt_attack_webbackdoor/20160729/upload_sucess: No such file or directory
+cat: /usr/ncic/workdir/huizong/datacount/intermediate_result/917mt_attack_webbackdoor/20160729/*: No such file or directory
+ls: cannot access /usr/ncic/workdir/huizong/917mt_info_phishing/20160729/upload_sucess: No such file or directory
+ls: cannot access /usr/ncic/workdir/huizong/917mt_info_phishing/20160729/upload_sucess: No such file or directory
+cat: /usr/ncic/workdir/huizong/datacount/intermediate_result/917mt_info_phishing/20160729/*: No such file or directory
+ls: cannot access /usr/ncic/workdir/huizong/917mt_mobile/20160729/upload_sucess: No such file or directory
+ls: cannot access /usr/ncic/workdir/huizong/917mt_mobile/20160729/upload_sucess: No such file or directory
+cat: /usr/ncic/workdir/huizong/datacount/intermediate_result/917mt_mobile/20160729/*: No such file or directory
+ls: cannot access /usr/ncic/workdir/huizong/917mt_special/20160729/upload_sucess: No such file or directory
+ls: cannot access /usr/ncic/workdir/huizong/917mt_special/20160729/upload_sucess: No such file or directory
+cat: /usr/ncic/workdir/huizong/datacount/intermediate_result/917mt_special/20160729/*: No such file or directory
+/usr/ncic/workdir/huizong/datacount/lib/func_sum.sh: line 5: /bin/cat: Argument list too long
+/usr/ncic/workdir/huizong/datacount/lib/func_sum.sh: line 5: /bin/cat: Argument list too long
+/usr/ncic/workdir/huizong/datacount/lib/func_sum.sh: line 5: /bin/cat: Argument list too long
+/usr/ncic/workdir/huizong/datacount/lib/func_sum.sh: line 5: /bin/cat: Argument list too long
+/usr/ncic/workdir/huizong/datacount/lib/func_sum.sh: line 5: /bin/cat: Argument list too long
+/usr/ncic/workdir/huizong/datacount/lib/func_sum.sh: line 5: /bin/cat: Argument list too long
+/usr/ncic/workdir/huizong/datacount/lib/func_sum.sh: line 5: /bin/cat: Argument list too long
+/usr/ncic/workdir/huizong/datacount/lib/func_sum.sh: line 5: /bin/cat: Argument list too long
+/usr/ncic/workdir/huizong/datacount/lib/func_sum.sh: line 5: /bin/cat: Argument list too long
+/usr/ncic/workdir/huizong/datacount/lib/func_sum.sh: line 5: /bin/cat: Argument list too long
