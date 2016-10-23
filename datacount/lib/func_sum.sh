@@ -1,7 +1,4 @@
 #!/bin/bash
-
-
-
 sum(){
 echo -e "$(date +%Y-%m-%d\ %H:%M:%S) Doing something, waiting..."
 local intermediate_result_dir=$1

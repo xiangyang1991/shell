@@ -11,4 +11,3 @@ do
 	echo -e "$i\t$sum" >> ${hz_file}
 done
 }
-#query /usr/ncic/workdir/huizong/datacount/result/917mt file
